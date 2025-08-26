@@ -1,0 +1,2 @@
+C:\GitHub\Garaje\Garaje\obj\Debug\Garaje.csproj.AssemblyReference.cache
+C:\GitHub\Garaje\Garaje\obj\Debug\Garaje.csproj.CoreCompileInputs.cache
